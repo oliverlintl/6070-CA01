@@ -1,5 +1,5 @@
 ![alt text](image/pollution.png)
-# 6070-CA01-Exploratory Data Analysis on India Pollution Data with Python
+# 6070-CA01: Exploratory Data Analysis on India Pollution Data with Python
 ## Data: 
 > The dataset consists of India's pollution data from 1990 to 2015.
 ![alt text](image/data.png)
