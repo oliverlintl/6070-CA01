@@ -1,6 +1,8 @@
+![alt text](image/pollution.png)
 # 6070-CA01-Exploratory Data Analysis on India Pollution Data with Python
 ## Data: 
 > The dataset consists of India's pollution data from 1990 to 2015.
+![alt text](image/data.png)
 ## Exploratory Analysis:
 > In this analysis, we look into some basic info about the dataset such as the columns, missing values, shapes etc. <br>
 > Then, we clean the data by dropping some irrelevant columns, making sure categorical data is consistent, and add in a year column. <br>
