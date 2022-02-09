@@ -15,3 +15,6 @@
 > Final, we make a few bar charts and line plot to visualize the pollution level and trends over the years. <br>
 > Here is a sneak peak of the visualization of the pollution trend:\
 > ![alt text](image/trend.png)
+> <br>
+> Runtime: 
+> 5-10 sec
